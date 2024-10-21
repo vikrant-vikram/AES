@@ -1,7 +1,7 @@
 
 # <a href="https://github.com/vikrant-vikram/AES">  *ADVANCED ENCRYPTION STANDARD (AES)* </a>
 
-<a href="https://en.wikipedia.org/wiki/DES_supplementary_material">DES supplementary material</a>
+<a href="https://en.wikipedia.org/wiki/Advanced_Encryption_Standard">AES supplementary material</a>
 
 
 <div align="center">
