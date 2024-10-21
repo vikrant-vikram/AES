@@ -6,10 +6,10 @@
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DES-main-network.png/500px-DES-main-network.png" height="500" />
-
+<div>
 <pre>
 
-<pre>
+
 ADVANCED ENCRYPTION STANDARD (AES)
 Federal Information Processing Standards Publications (FIPS) are developed by NIST under 15
 U.S.C. 278g-3 and issued by the Secretary of Commerce under 40 U.S.C. 11331.
@@ -33,6 +33,4 @@ has indicated are appropriate for this purpose.
 This Standard may be adopted and used by non-Federal Government organizations.
 7. Specifcations. Federal Information Processing Standard (FIPS) 197, Advanced Encryption
 Standard (AES) (affxed).
-
-
-<div>
+<pre>
