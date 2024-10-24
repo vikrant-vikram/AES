@@ -10,6 +10,12 @@
 <pre>
 
 
+
+
+
+ Execute >> python3 aes_cipher.py
+
+
 ADVANCED ENCRYPTION STANDARD (AES)
 Federal Information Processing Standards Publications (FIPS) are developed by NIST under 15
 U.S.C. 278g-3 and issued by the Secretary of Commerce under 40 U.S.C. 11331.

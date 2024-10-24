@@ -1,13 +1,14 @@
 
+
+
+# this file is used used for key expansion in AES encryption and decryption.
 import aes_supplymenty_meterial  as asm
 
 
 def sub_bytes(word):
-    """Apply S-box substitution to a word (list of bytes)."""
     return [asm.S_BOX[b] for b in word]
 
 def rotate(word):
-    """Rotate the word by one byte to the left."""
     return word[1:] + word[:1]
 
 def key_schedule_core(word, iteration):
